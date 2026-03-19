@@ -2,6 +2,7 @@ from agent.pipeline import ResearchPipeline
  
 if __name__ == "__main__":
     inputs = [
+     # Aligned to AI Regulations & Policy
         "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence",
         "https://en.wikipedia.org/wiki/AI_safety",
         "https://en.wikipedia.org/wiki/Algorithmic_bias",
