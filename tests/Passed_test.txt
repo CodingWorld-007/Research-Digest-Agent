@@ -1,0 +1,46 @@
+PS E:\Autonomous_Agent\research-digest-agent> python -m tests.test_agent
+test_claims_have_valid_confidence_scores (__main__.TestClaimExtractorQuality.test_claims_have_valid_confidence_scores) ... INFO:root:1 claims extracted from: Test Source
+INFO:root:Total claims extracted: 1
+ok
+test_no_claims_from_junk_content (__main__.TestClaimExtractorQuality.test_no_claims_from_junk_content) ... INFO:root:0 claims extracted from: Test Source
+INFO:root:Total claims extracted: 0
+ok
+test_conflicting_claims_both_preserved (__main__.TestConflictingClaimsPreservation.test_conflicting_claims_both_preserved) ... INFO:root:Reduced 2 → 1 groups
+ok
+test_evidence_preserved_verbatim (__main__.TestConflictingClaimsPreservation.test_evidence_preserved_verbatim) ... INFO:root:0 claims extracted from: Conflict Source
+INFO:root:Total claims extracted: 0
+ok
+test_source_ids_tracked_in_group (__main__.TestConflictingClaimsPreservation.test_source_ids_tracked_in_group) ... ok
+test_theme_assignment_preserves_all_groups (__main__.TestConflictingClaimsPreservation.test_theme_assignment_preserves_all_groups) ... ok
+test_distinct_claims_stay_separate (__main__.TestDeduplication.test_distinct_claims_stay_separate) ... INFO:root:Reduced 2 → 2 groups
+ok
+test_empty_claims_returns_empty (__main__.TestDeduplication.test_empty_claims_returns_empty) ... WARNING:root:No claims to process
+ok
+test_highly_similar_claims_grouped (__main__.TestDeduplication.test_highly_similar_claims_grouped) ... INFO:root:Reduced 2 → 1 groups
+ok
+test_identical_claims_merged (__main__.TestDeduplication.test_identical_claims_merged) ... INFO:root:Reduced 2 → 1 groups
+ok
+test_single_claim_one_group (__main__.TestDeduplication.test_single_claim_one_group) ... INFO:root:Reduced 1 → 1 groups
+ok
+test_cleaning_skips_empty_sources (__main__.TestEmptyAndUnreachableSources.test_cleaning_skips_empty_sources) ... WARNING:root:Empty after cleaning: Test Source
+INFO:root:Total cleaned sources: 0
+ok
+test_duplicate_url_skipped (__main__.TestEmptyAndUnreachableSources.test_duplicate_url_skipped) ... WARNING:root:Duplicate URL skipped: http://example.com/article
+INFO:root:Total sources ingested: 1
+ok
+test_empty_input_list (__main__.TestEmptyAndUnreachableSources.test_empty_input_list) ... INFO:root:Total sources ingested: 0
+ok
+test_missing_file_returns_none (__main__.TestEmptyAndUnreachableSources.test_missing_file_returns_none) ... ERROR:root:File not found: /nonexistent/path/file.txt
+ok
+test_network_exception_returns_none (__main__.TestEmptyAndUnreachableSources.test_network_exception_returns_none) ... ERROR:root:Error fetching http://crash-site.example.com: Connection refused
+ok
+test_too_short_content_skipped (__main__.TestEmptyAndUnreachableSources.test_too_short_content_skipped) ... WARNING:root:Content too short: http://example.com/short
+ok
+test_unreachable_url_returns_none (__main__.TestEmptyAndUnreachableSources.test_unreachable_url_returns_none) ... ERROR:root:Failed to fetch: http://unreachable-site.example.com
+ok
+
+----------------------------------------------------------------------
+Ran 18 tests in 0.022s
+
+OK
+PS E:\Autonomous_Agent\research-digest-agent> 
