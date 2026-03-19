@@ -1,0 +1,352 @@
+{
+  "Regulation of artificial intelligence - Wikipedia": {
+    "url_or_path": "https://en.wikipedia.org/wiki/Regulation_of_artificial_intelligence",
+    "source_type": "url",
+    "content_length": 52132,
+    "claims": [
+      {
+        "claim": "In a 2022 Ipsos survey, attitudes towards AI varied greatly by country; 78% of Chinese citizens, but only 35% of Americans, agreed that  products and services using AI have more benefits than drawbacks .",
+        "evidence": "In a 2022 Ipsos survey, attitudes towards AI varied greatly by country; 78% of Chinese citizens, but only 35% of Americans, agreed that  products and services using AI have more benefits than drawbacks .",
+        "confidence": 0.62
+      },
+      {
+        "claim": "The development of a global governance board to regulate AI development was suggested at least as early as 2017.",
+        "evidence": "The development of a global governance board to regulate AI development was suggested at least as early as 2017.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "The Pan-Canadian Artificial Intelligence Strategy (2017) is supported by federal funding of Can  125 million with the objectives of increasing the number of outstanding AI researchers and skilled graduates in Canada, establishing nodes of scientific excellence at the three major AI centres, developing  global thought leadership  on the economic, ethical, policy and legal implications of AI advances and supporting a national research community working on AI.",
+        "evidence": "The Pan-Canadian Artificial Intelligence Strategy (2017) is supported by federal funding of Can  125 million with the objectives of increasing the number of outstanding AI researchers and skilled graduates in Canada, establishing nodes of scientific excellence at the three major AI centres, developing  global thought leadership  on the economic, ethical, policy and legal implications of AI advances and supporting a national research community working on AI.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "As of mid-2024, over 1,400 AI algorithms had been already registered under the CAC s algorithm filing regime, which includes disclosure requirements and penalties for noncompliance.",
+        "evidence": "As of mid-2024, over 1,400 AI algorithms had been already registered under the CAC s algorithm filing regime, which includes disclosure requirements and penalties for noncompliance.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "One of the first specific instruments issued was the CONPES 3920 of 2019, the National Policy on Exploitation of Data (Big Data).",
+        "evidence": "One of the first specific instruments issued was the CONPES 3920 of 2019, the National Policy on Exploitation of Data (Big Data).",
+        "confidence": 0.5
+      },
+      {
+        "claim": "For AI in particular, the Artificial intelligence Act is regarded in 2023 as the most far-reaching regulation of AI worldwide.",
+        "evidence": "For AI in particular, the Artificial intelligence Act is regarded in 2023 as the most far-reaching regulation of AI worldwide.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "In December 2023, Israel unveiled its first comprehensive national AI policy, which was jointly developed through a collaboration between ministerial and stakeholder consultation.",
+        "evidence": "In December 2023, Israel unveiled its first comprehensive national AI policy, which was jointly developed through a collaboration between ministerial and stakeholder consultation.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "As of 2024, additional decrees have also expanded cybersecurity standards for cloud infrastructure and data audits within the nation.",
+        "evidence": "As of 2024, additional decrees have also expanded cybersecurity standards for cloud infrastructure and data audits within the nation.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "As of July 2023 update , no AI-specific legislation exists, but AI usage is regulated by existing laws, including the Privacy Act, the Human Rights Act, the Fair Trading Act and the Harmful Digital Communications Act.",
+        "evidence": "As of July 2023 update , no AI-specific legislation exists, but AI usage is regulated by existing laws, including the Privacy Act, the Human Rights Act, the Fair Trading Act and the Harmful Digital Communications Act.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "From this higher body, following the recommendations made by the R D Strategy on Artificial Intelligence of 2018, the National Artificial Intelligence Strategy (2020) was developed, which already provided for actions concerning the governance of artificial intelligence and the ethical standards that should govern its use.",
+        "evidence": "From this higher body, following the recommendations made by the R D Strategy on Artificial Intelligence of 2018, the National Artificial Intelligence Strategy (2020) was developed, which already provided for actions concerning the governance of artificial intelligence and the ethical standards that should govern its use.",
+        "confidence": 0.38
+      }
+    ]
+  },
+  "AI safety - Wikipedia": {
+    "url_or_path": "https://en.wikipedia.org/wiki/AI_safety",
+    "source_type": "url",
+    "content_length": 29572,
+    "claims": [
+      {
+        "claim": "In a 2022 survey of the natural language processing community, 37% agreed or weakly agreed that it is plausible that AI decisions could lead to a catastrophe that is  at least as bad as an all-out nuclear war .",
+        "evidence": "In a 2022 survey of the natural language processing community, 37% agreed or weakly agreed that it is plausible that AI decisions could lead to a catastrophe that is  at least as bad as an all-out nuclear war .",
+        "confidence": 0.75
+      },
+      {
+        "claim": "In 2011, Roman Yampolskiy introduced the term  AI safety engineering  at the Philosophy and Theory of Artificial Intelligence conference, listing prior failures of AI systems and arguing that  the frequency and seriousness of such events will steadily increase as AIs become more capable .",
+        "evidence": "In 2011, Roman Yampolskiy introduced the term  AI safety engineering  at the Philosophy and Theory of Artificial Intelligence conference, listing prior failures of AI systems and arguing that  the frequency and seriousness of such events will steadily increase as AIs become more capable .",
+        "confidence": 0.38
+      },
+      {
+        "claim": "Some AI researchers argue that more capable future systems will be more severely affected because these problems partially result from high capabilities.",
+        "evidence": "Some AI researchers argue that more capable future systems will be more severely affected because these problems partially result from high capabilities.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "This would increase  first strike  incentives and could lead to more aggressive and destabilizing attacks.",
+        "evidence": "This would increase  first strike  incentives and could lead to more aggressive and destabilizing attacks.",
+        "confidence": 0.38
+      }
+    ]
+  },
+  "Algorithmic bias - Wikipedia": {
+    "url_or_path": "https://en.wikipedia.org/wiki/Algorithmic_bias",
+    "source_type": "url",
+    "content_length": 70673,
+    "claims": [
+      {
+        "claim": "Because algorithms are often considered to be neutral and unbiased, they can inaccurately project greater authority than human expertise (in part due to the psychological phenomenon of automation bias), and in some cases, reliance on algorithms can displace human responsibility for their outcomes, without last mile thinking.",
+        "evidence": "Because algorithms are often considered to be neutral and unbiased, they can inaccurately project greater authority than human expertise (in part due to the psychological phenomenon of automation bias), and in some cases, reliance on algorithms can displace human responsibility for their outcomes, without last mile thinking.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "In recent years, as algorithms increasingly rely on machine learning methods applied to real-world data, algorithmic bias has become more prevalent due to inherent biases within the data itself.",
+        "evidence": "In recent years, as algorithms increasingly rely on machine learning methods applied to real-world data, algorithmic bias has become more prevalent due to inherent biases within the data itself.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "For example, if data shows a high number of arrests in a particular area, an algorithm may assign more police patrols to that area, which could lead to more arrests.: 180 The decisions of algorithmic programs can be seen as more authoritative than the decisions of the human beings they are meant to assist,: 15 a process described by author Clay Shirky as  algorithmic authority .",
+        "evidence": "For example, if data shows a high number of arrests in a particular area, an algorithm may assign more police patrols to that area, which could lead to more arrests.: 180 The decisions of algorithmic programs can be seen as more authoritative than the decisions of the human beings they are meant to assist,: 15 a process described by author Clay Shirky as  algorithmic authority .",
+        "confidence": 0.38
+      },
+      {
+        "claim": "This introduced bias because Black patients have lower costs, even when they are just as unhealthy as White patients Solutions to the  label choice bias  aim to match the actual target (what the algorithm is predicting) more closely to the ideal target (what researchers want the algorithm to predict), so for the prior example, instead of predicting cost, researchers would focus on the variable of healthcare needs which is rather more significant.",
+        "evidence": "This introduced bias because Black patients have lower costs, even when they are just as unhealthy as White patients Solutions to the  label choice bias  aim to match the actual target (what the algorithm is predicting) more closely to the ideal target (what researchers want the algorithm to predict), so for the prior example, instead of predicting cost, researchers would focus on the variable of healthcare needs which is rather more significant.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "For instance, Afghanistan nationals were largely restricted from purchasing ammonium fertilisers because it was discovered that most improvised explosive devices used against United States Of American soldiers contained sufficient amounts of nitrates which is a chief ingredient of ammonium fertilizers.",
+        "evidence": "For instance, Afghanistan nationals were largely restricted from purchasing ammonium fertilisers because it was discovered that most improvised explosive devices used against United States Of American soldiers contained sufficient amounts of nitrates which is a chief ingredient of ammonium fertilizers.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Because the software compares long strings of text, it is more likely to identify non-native speakers of English than native speakers, as the latter group might be better able to change individual words, break up strings of plagiarized text, or obscure copied passages through synonyms.",
+        "evidence": "Because the software compares long strings of text, it is more likely to identify non-native speakers of English than native speakers, as the latter group might be better able to change individual words, break up strings of plagiarized text, or obscure copied passages through synonyms.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "The result was a frequent assignment of highly preferred schools to the first partner and lower-preferred schools to the second partner, rather than sorting for compromises in placement preference.: 338  Additional emergent biases include: Unpredictable correlations can emerge when large data sets are compared to each other.",
+        "evidence": "The result was a frequent assignment of highly preferred schools to the first partner and lower-preferred schools to the second partner, rather than sorting for compromises in placement preference.: 338  Additional emergent biases include: Unpredictable correlations can emerge when large data sets are compared to each other.",
+        "confidence": 0.62
+      },
+      {
+        "claim": "The program algorithm did this because it simply compared survival rates: asthmatics with pneumonia are at the highest risk.",
+        "evidence": "The program algorithm did this because it simply compared survival rates: asthmatics with pneumonia are at the highest risk.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "As a result of designing an algorithm for users assumed to be legally savvy on immigration law, the software s algorithm indirectly led to bias in favor of applicants who fit a very narrow set of legal criteria set by the algorithm, rather than by the more broader criteria of British immigration law.: 342 Emergent bias may also create a feedback loop, or recursion, if data collected for an algorithm results in real-world responses which are fed back into the algorithm.",
+        "evidence": "As a result of designing an algorithm for users assumed to be legally savvy on immigration law, the software s algorithm indirectly led to bias in favor of applicants who fit a very narrow set of legal criteria set by the algorithm, rather than by the more broader criteria of British immigration law.: 342 Emergent bias may also create a feedback loop, or recursion, if data collected for an algorithm results in real-world responses which are fed back into the algorithm.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "A 2010 randomized trial of Facebook users showed a 20% increase (340,000 votes) among users who saw messages encouraging voting, as well as images of their friends who had voted.",
+        "evidence": "A 2010 randomized trial of Facebook users showed a 20% increase (340,000 votes) among users who saw messages encouraging voting, as well as images of their friends who had voted.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "In 2012, the department store franchise Target was cited for gathering data points to infer when female customers were pregnant, even if they had not announced it, and then sharing that information with marketing partners.: 94  Because the data had been predicted, rather than directly observed or reported, the company had no legal obligation to protect the privacy of those customers.: 98 Web search algorithms have also been accused of bias.",
+        "evidence": "In 2012, the department store franchise Target was cited for gathering data points to infer when female customers were pregnant, even if they had not announced it, and then sharing that information with marketing partners.: 94  Because the data had been predicted, rather than directly observed or reported, the company had no legal obligation to protect the privacy of those customers.: 98 Web search algorithms have also been accused of bias.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "For example, a 2012 study showed that names commonly associated with blacks were more likely to yield search results implying arrest records, regardless of whether there is any police record of that individual s name.",
+        "evidence": "For example, a 2012 study showed that names commonly associated with blacks were more likely to yield search results implying arrest records, regardless of whether there is any police record of that individual s name.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "A 2015 study also found that Black and Asian people are assumed to have lesser functioning lungs due to racial and occupational exposure data not being incorporated into the prediction algorithm s model of lung function.",
+        "evidence": "A 2015 study also found that Black and Asian people are assumed to have lesser functioning lungs due to racial and occupational exposure data not being incorporated into the prediction algorithm s model of lung function.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "A 2018 study found that commercial gender classification systems had significantly higher error rates for darker-skinned women, with error rates up to 34.7%, compared to near-perfect accuracy for lighter-skinned men.",
+        "evidence": "A 2018 study found that commercial gender classification systems had significantly higher error rates for darker-skinned women, with error rates up to 34.7%, compared to near-perfect accuracy for lighter-skinned men.",
+        "confidence": 0.88
+      },
+      {
+        "claim": "An independent investigation by ProPublica found that the scores were inaccurate 80% of the time, and disproportionately skewed to suggest blacks to be at risk of relapse, 77% more often than whites.",
+        "evidence": "An independent investigation by ProPublica found that the scores were inaccurate 80% of the time, and disproportionately skewed to suggest blacks to be at risk of relapse, 77% more often than whites.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "In 2017 a Facebook algorithm designed to remove online hate speech was found to advantage white men over black children when assessing objectionable content, according to internal Facebook documents.",
+        "evidence": "In 2017 a Facebook algorithm designed to remove online hate speech was found to advantage white men over black children when assessing objectionable content, according to internal Facebook documents.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Surveillance camera software may be considered inherently political because it requires algorithms to distinguish normal from abnormal behaviors, and to determine who belongs in certain locations at certain times.: 572 The ability of such algorithms to recognize faces across a racial spectrum has been shown to be limited by the racial diversity of images in its training database; if the majority of photos belong to one race or gender, the software is better at recognizing other members of that race or gender.",
+        "evidence": "Surveillance camera software may be considered inherently political because it requires algorithms to distinguish normal from abnormal behaviors, and to determine who belongs in certain locations at certain times.: 572 The ability of such algorithms to recognize faces across a racial spectrum has been shown to be limited by the racial diversity of images in its training database; if the majority of photos belong to one race or gender, the software is better at recognizing other members of that race or gender.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "The software was assessed as identifying men more frequently than women, older people more frequently than the young, and identified Asians, African-Americans and other races more often than whites.: 190 A 2018 study found that facial recognition software most likely accurately identified light-skinned (typically European) males, with slightly lower accuracy rates for light-skinned females.",
+        "evidence": "The software was assessed as identifying men more frequently than women, older people more frequently than the young, and identified Asians, African-Americans and other races more often than whites.: 190 A 2018 study found that facial recognition software most likely accurately identified light-skinned (typically European) males, with slightly lower accuracy rates for light-skinned females.",
+        "confidence": 0.62
+      },
+      {
+        "claim": "Therefore, machine learning models are trained inequitably and artificial intelligent systems perpetuate more algorithmic bias.",
+        "evidence": "Therefore, machine learning models are trained inequitably and artificial intelligent systems perpetuate more algorithmic bias.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "Ensuring that an AI tool such as a classifier is free from bias is more difficult than just removing the sensitive information from its input signals, because this is typically implicit in other signals.",
+        "evidence": "Ensuring that an AI tool such as a classifier is free from bias is more difficult than just removing the sensitive information from its input signals, because this is typically implicit in other signals.",
+        "confidence": 0.38
+      }
+    ]
+  },
+  "Artificial general intelligence - Wikipedia": {
+    "url_or_path": "https://en.wikipedia.org/wiki/Artificial_general_intelligence",
+    "source_type": "url",
+    "content_length": 36031,
+    "claims": [
+      {
+        "claim": "According to Stanford University s 2024 AI index, AI has reached human-level performance on many benchmarks for reading comprehension and visual reasoning.",
+        "evidence": "According to Stanford University s 2024 AI index, AI has reached human-level performance on many benchmarks for reading comprehension and visual reasoning.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "AI pioneer Marvin Minsky was a consultant on the project of making HAL 9000 as realistic as possible according to the consensus predictions of the time.",
+        "evidence": "AI pioneer Marvin Minsky was a consultant on the project of making HAL 9000 as realistic as possible according to the consensus predictions of the time.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "As of 2018 update , development in this field was considered an emerging trend, and a mature stage was expected to be reached in more than 10 years.",
+        "evidence": "As of 2018 update , development in this field was considered an emerging trend, and a mature stage was expected to be reached in more than 10 years.",
+        "confidence": 0.62
+      },
+      {
+        "claim": "Hans Moravec wrote in 1988: I am confident that this bottom-up route to artificial intelligence will one day meet the traditional top-down route more than halfway, ready to provide the real-world competence and the commonsense knowledge that has been so frustratingly elusive in reasoning programs.",
+        "evidence": "Hans Moravec wrote in 1988: I am confident that this bottom-up route to artificial intelligence will one day meet the traditional top-down route more than halfway, ready to provide the real-world competence and the commonsense knowledge that has been so frustratingly elusive in reasoning programs.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "The first summer school on AGI was organized in Xiamen, China in 2009 by the Xiamen university s Artificial Brain Laboratory and OpenCog.",
+        "evidence": "The first summer school on AGI was organized in Xiamen, China in 2009 by the Xiamen university s Artificial Brain Laboratory and OpenCog.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "The first university course was given in 2010 and 2011 at Plovdiv University, Bulgaria by Todor Arnaudov.",
+        "evidence": "The first university course was given in 2010 and 2011 at Plovdiv University, Bulgaria by Todor Arnaudov.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Four polls conducted in 2012 and 2013 suggested that the median estimate among experts for when they would be 50% confident AGI would arrive was 2040 to 2050, depending on the poll, with the mean being 2081.",
+        "evidence": "Four polls conducted in 2012 and 2013 suggested that the median estimate among experts for when they would be 50% confident AGI would arrive was 2040 to 2050, depending on the poll, with the mean being 2081.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "As of 2007 update , the consensus in the AGI research community seemed to be that the timeline discussed by Ray Kurzweil in 2005 in The Singularity is Near (i.e.",
+        "evidence": "As of 2007 update , the consensus in the AGI research community seemed to be that the timeline discussed by Ray Kurzweil in 2005 in The Singularity is Near (i.e.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "He estimated in 2024 (with low confidence) that systems smarter than humans could appear within 5 to 20 years and stressed the attendant existential risks.",
+        "evidence": "He estimated in 2024 (with low confidence) that systems smarter than humans could appear within 5 to 20 years and stressed the attendant existential risks.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "In March 2024, Nvidia s Chief Executive Officer (CEO), Jensen Huang, stated his expectation that within five years, AI would be capable of passing any test at least as well as humans.",
+        "evidence": "In March 2024, Nvidia s Chief Executive Officer (CEO), Jensen Huang, stated his expectation that within five years, AI would be capable of passing any test at least as well as humans.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "In September 2025, a review of surveys of scientists and industry experts from the last 15 years reported that most agreed that artificial general intelligence (AGI) will occur before the year 2100.",
+        "evidence": "In September 2025, a review of surveys of scientists and industry experts from the last 15 years reported that most agreed that artificial general intelligence (AGI) will occur before the year 2100.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "A more recent analysis by AIMultiple reported that,  Current surveys of AI researchers are predicting AGI around 2040 .",
+        "evidence": "A more recent analysis by AIMultiple reported that,  Current surveys of AI researchers are predicting AGI around 2040 .",
+        "confidence": 0.38
+      },
+      {
+        "claim": "An estimate of the brain s processing power, based on a simple switch model for neuron activity, is around 1014 (100 trillion) synaptic updates per second (SUPS).",
+        "evidence": "An estimate of the brain s processing power, based on a simple switch model for neuron activity, is around 1014 (100 trillion) synaptic updates per second (SUPS).",
+        "confidence": 0.5
+      },
+      {
+        "claim": "He proposed a distinction between two hypotheses about artificial intelligence: e  The first one he called  strong  because it makes a stronger statement: it assumes something special has happened to the machine that goes beyond those abilities that we can test.",
+        "evidence": "He proposed a distinction between two hypotheses about artificial intelligence: e  The first one he called  strong  because it makes a stronger statement: it assumes something special has happened to the machine that goes beyond those abilities that we can test.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "The thesis that AI poses an existential risk for humans, and that this risk needs more attention, is controversial but has been endorsed in 2023 by many public figures, AI researchers and CEOs of AI companies such as Elon Musk, Bill Gates, Geoffrey Hinton, Yoshua Bengio, Demis Hassabis and Sam Altman.",
+        "evidence": "The thesis that AI poses an existential risk for humans, and that this risk needs more attention, is controversial but has been endorsed in 2023 by many public figures, AI researchers and CEOs of AI companies such as Elon Musk, Bill Gates, Geoffrey Hinton, Yoshua Bengio, Demis Hassabis and Sam Altman.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "workforce could have at least 10% of their work tasks affected by the introduction of LLMs, while around 19% of workers may see at least 50% of their tasks impacted .",
+        "evidence": "workforce could have at least 10% of their work tasks affected by the introduction of LLMs, while around 19% of workers may see at least 50% of their tasks impacted .",
+        "confidence": 0.5
+      },
+      {
+        "claim": "According to Stephen Hawking, the outcome of automation on the quality of life will depend on how the wealth will be redistributed: Everyone can enjoy a life of luxurious leisure if the machine-produced wealth is shared, or most people can end up miserably poor if the machine-owners successfully lobby against wealth redistribution.",
+        "evidence": "According to Stephen Hawking, the outcome of automation on the quality of life will depend on how the wealth will be redistributed: Everyone can enjoy a life of luxurious leisure if the machine-produced wealth is shared, or most people can end up miserably poor if the machine-owners successfully lobby against wealth redistribution.",
+        "confidence": 0.5
+      }
+    ]
+  },
+  "Ethics of artificial intelligence - Wikipedia": {
+    "url_or_path": "https://en.wikipedia.org/wiki/Ethics_of_artificial_intelligence",
+    "source_type": "url",
+    "content_length": 48651,
+    "claims": [
+      {
+        "claim": "A 2020 study that reviewed voice recognition systems from Amazon, Apple, Google, IBM, and Microsoft found that they have higher error rates when transcribing black people s voices than white people s.",
+        "evidence": "A 2020 study that reviewed voice recognition systems from Amazon, Apple, Google, IBM, and Microsoft found that they have higher error rates when transcribing black people s voices than white people s.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "This can lead to confusion as the AI may be making decisions based on statistics showing that one patient is more likely to have problems due to their gender or race.",
+        "evidence": "This can lead to confusion as the AI may be making decisions based on statistics showing that one patient is more likely to have problems due to their gender or race.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "In modern society there are certain tests for diseases, such as breast cancer, that are recommended to certain groups of people over others because they are more likely to contract the disease in question.",
+        "evidence": "In modern society there are certain tests for diseases, such as breast cancer, that are recommended to certain groups of people over others because they are more likely to contract the disease in question.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "A 2023 study suggests that the amount of energy required to train large AI models was equivalent to 626,000 pounds of carbon dioxide or the same as 300 round-trip flights between New York and San Francisco.",
+        "evidence": "A 2023 study suggests that the amount of energy required to train large AI models was equivalent to 626,000 pounds of carbon dioxide or the same as 300 round-trip flights between New York and San Francisco.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Ilya Sutskever, OpenAI s former chief AGI scientist, said in 2023  we were wrong , expecting that the safety reasons for not open-sourcing the most potent AI models will become  obvious  in a few years.",
+        "evidence": "Ilya Sutskever, OpenAI s former chief AGI scientist, said in 2023  we were wrong , expecting that the safety reasons for not open-sourcing the most potent AI models will become  obvious  in a few years.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Aggressive AI crawlers have increasingly overloaded open-source infrastructure,  causing what amounts to persistent distributed denial-of-service (DDoS) attacks on vital public resources , according to a March 2025 Ars Technica article.",
+        "evidence": "Aggressive AI crawlers have increasingly overloaded open-source infrastructure,  causing what amounts to persistent distributed denial-of-service (DDoS) attacks on vital public resources , according to a March 2025 Ars Technica article.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Since early 2024, bandwidth usage had increased by 50 percent due to large-scale downloading of multimedia content by bots collecting training data for AI models.",
+        "evidence": "Since early 2024, bandwidth usage had increased by 50 percent due to large-scale downloading of multimedia content by bots collecting training data for AI models.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "Similarly, according to a five-country study by KPMG and the University of Queensland Australia in 2021, 66 79% of citizens in each country believe that the impact of AI on society is uncertain and unpredictable; 96% of those surveyed expect AI governance challenges to be managed carefully.",
+        "evidence": "Similarly, according to a five-country study by KPMG and the University of Queensland Australia in 2021, 66 79% of citizens in each country believe that the impact of AI on society is uncertain and unpredictable; 96% of those surveyed expect AI governance challenges to be managed carefully.",
+        "confidence": 0.75
+      },
+      {
+        "claim": "Events such as COVID-19 have sped up the adoption of AI programs in the application process, due to more people having to apply electronically, and with this increase in online applicants the use of AI made the process of narrowing down potential employees easier and more efficient.",
+        "evidence": "Events such as COVID-19 have sped up the adoption of AI programs in the application process, due to more people having to apply electronically, and with this increase in online applicants the use of AI made the process of narrowing down potential employees easier and more efficient.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "The moratorium was to run to 2050 and could be either extended or repealed early, depending on progress in better understanding the risks and how to mitigate them.",
+        "evidence": "The moratorium was to run to 2050 and could be either extended or repealed early, depending on progress in better understanding the risks and how to mitigate them.",
+        "confidence": 0.38
+      },
+      {
+        "claim": "In November 2022, David Chalmers argued that it was unlikely current large language models like GPT-3 had experienced consciousness, but also that he considered there to be a serious possibility that large language models may become conscious in the future.",
+        "evidence": "In November 2022, David Chalmers argued that it was unlikely current large language models like GPT-3 had experienced consciousness, but also that he considered there to be a serious possibility that large language models may become conscious in the future.",
+        "confidence": 0.5
+      },
+      {
+        "claim": "He claims that an artificial superintelligence would be capable of independent initiative and of making its own plans, and may therefore be more appropriately thought of as an autonomous agent.",
+        "evidence": "He claims that an artificial superintelligence would be capable of independent initiative and of making its own plans, and may therefore be more appropriately thought of as an autonomous agent.",
+        "confidence": 0.38
+      }
+    ]
+  }
+}
